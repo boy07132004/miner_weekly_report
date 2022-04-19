@@ -1,5 +1,5 @@
 # miner_weekly_report
-Caculate GPUMine payment weekly and display on web page.
+Calculate GPUMine payment weekly and display on web page.
 
 ## How to
 1. Edit miner.ini
